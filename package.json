@@ -1,0 +1,28 @@
+{
+  "name": "words",
+  "version": "0.0.1",
+  "description": "Words API",
+  "main": "src/index.ts",
+  "repository": "git@github.com:hieudoanm/words.git",
+  "author": "hieudoanm <hieumdoan@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "count": "ts-node src/count.ts",
+    "lint": "eslint . --fix --ext .ts"
+  },
+  "devDependencies": {
+    "@types/node": "18.0.6",
+    "@typescript-eslint/eslint-plugin": "5.31.0",
+    "@typescript-eslint/parser": "5.31.0",
+    "axios": "0.27.2",
+    "dotenv": "16.0.1",
+    "eslint": "8.20.0",
+    "husky": "8.0.1",
+    "prettier": "2.7.1",
+    "pretty-quick": "3.1.3",
+    "ts-node": "10.9.1",
+    "typescript": "4.7.4"
+  }
+}
