@@ -18,7 +18,7 @@
     "@typescript-eslint/parser": "5.31.0",
     "axios": "0.27.2",
     "dotenv": "16.0.1",
-    "eslint": "8.20.0",
+    "eslint": "8.22.0",
     "husky": "8.0.1",
     "prettier": "2.7.1",
     "pretty-quick": "3.1.3",
