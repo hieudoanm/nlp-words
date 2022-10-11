@@ -13,6 +13,7 @@
     "lint": "eslint . --fix --ext .ts"
   },
   "devDependencies": {
+    "@hieudoanm/dotenv": "0.0.1",
     "@types/node": "18.0.6",
     "@typescript-eslint/eslint-plugin": "5.40.0",
     "@typescript-eslint/parser": "5.40.0",
