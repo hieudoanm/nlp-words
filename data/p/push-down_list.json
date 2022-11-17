@@ -1,0 +1,1 @@
+{"word":"push-down list","results":[{"definition":"a list in which the next item to be removed is the item most recently stored (LIFO)","partOfSpeech":"noun","synonyms":["push-down stack","stack"],"typeOf":["list","listing"]}]}
